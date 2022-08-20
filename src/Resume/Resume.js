@@ -8,7 +8,7 @@ const Resume = () => {
       <div className="container-main">
 
         <section  id="wrapHero" className="section-page">
-        <img className="aslam-pic" src="/pix.png" alt="mex"/>
+        <img className="aslam-pic" src="/aslam.jpg" alt="mex"/>
 
         <div>
             <h1 className="aslam">Aslam Iliyas</h1>
@@ -33,7 +33,7 @@ const Resume = () => {
      <section className="section-page">
         <h2 className="skills">Skills and Qualifcation</h2>
         <ul className="list-style">
-            <li>✔️ 3+ years expirence Front end developer</li>
+            <li>✔️ 1 (1/2) years expirence Front end developer</li>
             <li>✔️ 50+ project created</li>
             <li>✔️ intermidate knowledge of API</li>
         </ul>
@@ -82,13 +82,7 @@ const Resume = () => {
                 <span>typing</span>
             </div>
 
-            <div className="card-otherstaack">
-                <span>Vitual Assistance</span>
-            </div>
-
-            <div className="card-otherstack">
-                <span>Costomer Service</span>
-            </div>
+           
 
             <div className="card-otherstack">
                 <span>Vitual Assiastance</span>
@@ -133,6 +127,26 @@ const Resume = () => {
             </div>
         </div>
      </section>
+
+
+
+
+     <section>
+     <h2 id="tite-2" className="tite">Skills</h2>
+        <div id="line-break"></div>
+
+<div className="pask1">
+    <h4 className="tite-2"> </h4>
+   <ul>
+    <li>💪 User interface design</li>
+    <li>💪 User experience design </li>
+    <li>💪 Team work </li>
+    <li>💪 Training and development  </li>
+    <li>💪 Maintenance and repair </li>
+    <li>💪 Contextual inquiry</li>
+   </ul>
+</div>
+</section>
 
 
      <section>
