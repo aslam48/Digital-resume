@@ -168,7 +168,12 @@
 
 
  @media only screen and (max-width: 600px){
-    #wrapHero{
+    body{
+      padding: 0.9rem;
+      margin: 0.6rem;
+    }
+  
+   #wrapHero{
         flex-direction: column;
         margin-right: 1%;
       
